@@ -3,7 +3,7 @@ class Simple_submit_acc {
 
   var $name = 'Simple submit';
   var $id = 'simple_submit';
-  var $version  = '0.1';
+  var $version  = '0.6';
   var $description  = 'Enable to save ExpressionEngine template with a shortcut code.';
   var $sections = array();
 
