@@ -13,6 +13,9 @@
 * 
 */
 
+if (!defined('BASEPATH'))
+    exit('No direct script access allowed');
+    
 class Simple_submit_acc {
 
   var $name = 'Simple submit';
